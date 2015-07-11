@@ -1,0 +1,22 @@
+{
+  "name": "promise-map",
+  "version": "1.0.0",
+  "description": "Demo with promise map",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trangtv04110/promise-map.git"
+  },
+  "author": "TrangTV",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trangtv04110/promise-map/issues"
+  },
+  "homepage": "https://github.com/trangtv04110/promise-map#readme",
+  "dependencies": {
+    "bluebird": "^2.9.33"
+  }
+}
